@@ -1,0 +1,12 @@
+This folder will contain all the codes that are going to be a part of our JavaScript Learning.
+This learning curve is going be the combination of both complere resource and udemy course by Maximilian Schwarzmüller
+
+** "use strict" imp topic
+
+Here is the list of topics that we are going to cover:
+ Section 1 : Variable, Data Types, Operators and functions.
+ Section 2 : Efficient Development and Debugging
+ Section 3 : Working with Control Structures
+ Section 4 : Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
+ Section 5 : More on functions
+ Section 6 : Working with DOM (Browser HTML Code) in JavaScript
